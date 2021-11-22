@@ -16,7 +16,7 @@
 	"GOENV": "/home/wojciechtobis/.config/go/env",
 	"GOEXE": "",
 	"GOFLAGS": "",
-	"GOGCCFLAGS": "-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build625077664=/tmp/go-build -gno-record-gcc-switches",
+	"GOGCCFLAGS": "-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build393785690=/tmp/go-build -gno-record-gcc-switches",
 	"GOHOSTARCH": "amd64",
 	"GOHOSTOS": "linux",
 	"GOMOD": "/home/wojciechtobis/SourceCode/go-pluralsight/golang-cli-playbook/go.mod",
